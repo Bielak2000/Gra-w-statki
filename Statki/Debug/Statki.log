@@ -1,0 +1,8 @@
+﻿  Źródło.cpp
+C:\Users\User\Desktop\Dokumenty\Statki\Statki\Źródło.cpp(61,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\Desktop\Dokumenty\Statki\Statki\Źródło.cpp(91,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\Desktop\Dokumenty\Statki\Statki\Źródło.cpp(208,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\User\Desktop\Dokumenty\Statki\Statki\Źródło.cpp(420,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\User\Desktop\Dokumenty\Statki\Statki\Źródło.cpp(638,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\User\Desktop\Dokumenty\Statki\Statki\Źródło.cpp(1413,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Statki.vcxproj -> C:\Users\User\Desktop\Dokumenty\Statki\Debug\Statki.exe
